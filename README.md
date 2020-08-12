@@ -4,7 +4,7 @@ Meu nome é Lílian, sou estudante de Engenharia da Computação no IFPB e aluna
 
 Amo programar em Python(:snake:), mas vez ou outra caminho por C++ e Java.
 
-No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir séries(:tv:) e uma boa conversa com os amigos().
+No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir séries(:tv:) e uma boa conversa com os amigos.
 
  :speech_balloon: Você pode me encontrar em:
 - :mailbox_with_mail: - lilianhteixeira@gmail.com
