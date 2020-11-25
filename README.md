@@ -2,7 +2,7 @@
 
 Meu nome é Lílian, sou estudante de Engenharia da Computação no IFPB e aluna da {Reprograma}.
 
-Amo programar em Python(:snake:), mas vez ou outra caminho por C++ e Java.
+Amo programar em Python(:snake:), atualmente dedico meus estudos à linguagem JavaScript e estou aprendendo muito.
 
 No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir séries(:tv:) e uma boa conversa com os amigos.
 
