@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Lílian, sou estudante de Engenharia da Computação no IFPB e aluna da {Reprograma}.
+Meu nome é Lílian, sou estudante de Engenharia da Computação no IFPB, estagiária na XPInc. e ex-aluna da {Reprograma}.
 
 Amo programar em Python(:snake:), atualmente dedico meus estudos à linguagem JavaScript e estou aprendendo muito.
 
