@@ -1,7 +1,7 @@
 <!-- Barra superior e inferior --> 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+ <!-- img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/ -->
 
-## Olá, me chamo Lílian Teixeira, sou estudante de Engenharia de Computação no IFPB (Instituto Federal da Paraiba) e Software Engineering na XP Inc.
+## Olá, me chamo Lílian Teixeira, sou estudante de Engenharia de Computação no IFPB (Instituto Federal de Educação Ciência e Tecnologia da Paraiba) e Software Engineering na XP Inc.
 
 ### Abaixo você encontra mais informações sobre meus repositórios e contribuições aqui no Github.
 
@@ -15,7 +15,7 @@
 </div> 
  
  <!-- gráfico das contribuições --> 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lilianhteixeira&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lilianhteixeira&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- badges, com trofeu --> 
 <p align="center">
@@ -30,7 +30,7 @@
  </div> 
  
  <!-- minhas habilidades -->
- ### Main skills:
+ ### Minhas skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS]( 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@
 
 
 <!-- estudando no momento -->
-### Studying in this moment:
+### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
@@ -53,4 +53,4 @@
 </div> 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
+<!-- img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/ --> 
